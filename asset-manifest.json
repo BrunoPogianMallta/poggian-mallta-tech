@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/poggian-mallta-tech/static/css/main.434bf0ac.css",
+    "main.js": "/poggian-mallta-tech/static/js/main.6bc3aa5b.js",
+    "static/js/453.7b71ab19.chunk.js": "/poggian-mallta-tech/static/js/453.7b71ab19.chunk.js",
+    "static/media/custos.mp4": "/poggian-mallta-tech/static/media/custos.799aa83350abc9708809.mp4",
+    "static/media/ideias.jpeg": "/poggian-mallta-tech/static/media/ideias.6a3d9127248ff2e088f9.jpeg",
+    "static/media/criacao-web-site.png": "/poggian-mallta-tech/static/media/criacao-web-site.c278ff6b40b1c73cc015.png",
+    "static/media/sistema-web.png": "/poggian-mallta-tech/static/media/sistema-web.f2a31e5b31089731afa6.png",
+    "static/media/logo2.png": "/poggian-mallta-tech/static/media/logo2.c0c8aca9059a2983d769.png",
+    "static/media/slick.svg": "/poggian-mallta-tech/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/poggian-mallta-tech/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/poggian-mallta-tech/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/poggian-mallta-tech/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/poggian-mallta-tech/index.html",
+    "main.434bf0ac.css.map": "/poggian-mallta-tech/static/css/main.434bf0ac.css.map",
+    "main.6bc3aa5b.js.map": "/poggian-mallta-tech/static/js/main.6bc3aa5b.js.map",
+    "453.7b71ab19.chunk.js.map": "/poggian-mallta-tech/static/js/453.7b71ab19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434bf0ac.css",
+    "static/js/main.6bc3aa5b.js"
+  ]
+}
