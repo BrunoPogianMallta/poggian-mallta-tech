@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/poggian-mallta-tech/static/css/main.434bf0ac.css",
-    "main.js": "/poggian-mallta-tech/static/js/main.6bc3aa5b.js",
+    "main.js": "/poggian-mallta-tech/static/js/main.f4e5655d.js",
     "static/js/453.7b71ab19.chunk.js": "/poggian-mallta-tech/static/js/453.7b71ab19.chunk.js",
     "static/media/custos.mp4": "/poggian-mallta-tech/static/media/custos.799aa83350abc9708809.mp4",
     "static/media/ideias.jpeg": "/poggian-mallta-tech/static/media/ideias.6a3d9127248ff2e088f9.jpeg",
@@ -14,11 +14,11 @@
     "static/media/slick.woff": "/poggian-mallta-tech/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/poggian-mallta-tech/index.html",
     "main.434bf0ac.css.map": "/poggian-mallta-tech/static/css/main.434bf0ac.css.map",
-    "main.6bc3aa5b.js.map": "/poggian-mallta-tech/static/js/main.6bc3aa5b.js.map",
+    "main.f4e5655d.js.map": "/poggian-mallta-tech/static/js/main.f4e5655d.js.map",
     "453.7b71ab19.chunk.js.map": "/poggian-mallta-tech/static/js/453.7b71ab19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.434bf0ac.css",
-    "static/js/main.6bc3aa5b.js"
+    "static/js/main.f4e5655d.js"
   ]
 }
