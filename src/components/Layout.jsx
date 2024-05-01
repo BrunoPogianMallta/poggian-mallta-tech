@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
         </div>
         <nav className="nav">
           <ul>
-            <li><Link to="/" onClick={scrollToTop}>Home</Link></li>
+            <li><a href=""></a><Link to="/" onClick={scrollToTop}>Home</Link></li>
             <li><a href="#services">Serviços</a></li>
             <li><a href="#technologies">Tecnologias</a></li>
             <li><a href="#contact">Contato</a></li>
